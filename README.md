@@ -45,7 +45,7 @@ General remembers the last file, the playback position, a single window, hardwar
 
 ## Licenses
 
-Playback is handled by the bundled mpv build in engine. mpv and FFmpeg are not written by Vask and stay under their own licenses. See the licenses folder in the download. This repository does not include the Vask interface source.
+Playback is handled by the bundled mpv build in engine. mpv and FFmpeg are not written by Vask and stay under their own licenses. See the licenses folder in the download.
 
 If you wish to support this and future projects you can do so here
 [Patreon](https://patreon.com/VaskRepo)
